@@ -1,6 +1,6 @@
 {
   "name": "vue-multi-pages",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Configure multiple entry pages for vue project which using vue-cli v3.",
   "main": "index.js",
   "peerDependencies": {
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/zen-li/vue-multi-pages.git"
   },
-  "keywords":[
+  "keywords": [
     "vue",
     "multiple pages"
   ],
